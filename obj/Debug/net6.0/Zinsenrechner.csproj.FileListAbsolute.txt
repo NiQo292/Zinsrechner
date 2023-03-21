@@ -1,0 +1,15 @@
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/bin/Debug/net6.0/Zinsenrechner
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/bin/Debug/net6.0/Zinsenrechner.deps.json
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/bin/Debug/net6.0/Zinsenrechner.runtimeconfig.json
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/bin/Debug/net6.0/Zinsenrechner.dll
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/bin/Debug/net6.0/Zinsenrechner.pdb
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/obj/Debug/net6.0/Zinsenrechner.csproj.AssemblyReference.cache
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/obj/Debug/net6.0/Zinsenrechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/obj/Debug/net6.0/Zinsenrechner.AssemblyInfoInputs.cache
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/obj/Debug/net6.0/Zinsenrechner.AssemblyInfo.cs
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/obj/Debug/net6.0/Zinsenrechner.csproj.CoreCompileInputs.cache
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/obj/Debug/net6.0/Zinsenrechner.dll
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/obj/Debug/net6.0/refint/Zinsenrechner.dll
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/obj/Debug/net6.0/Zinsenrechner.pdb
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/obj/Debug/net6.0/Zinsenrechner.genruntimeconfig.cache
+/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Zinsenrechner/Zinsenrechner/obj/Debug/net6.0/ref/Zinsenrechner.dll
